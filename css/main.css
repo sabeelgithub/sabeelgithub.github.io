@@ -1929,12 +1929,13 @@ header .logo a {
 	text-align: left;
 	color: rgba(0, 0, 0, 0.5);
 }
+
 .popup-modal .link-box {
 	width: 100%;
 	overflow: hidden;
 	background: #000000;
 }
-.popup-modal .link-box a {
+.popup-modal .link-box  a {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.2rem;
 	line-height: 6rem;
