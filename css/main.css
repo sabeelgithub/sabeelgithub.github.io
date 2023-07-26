@@ -1931,6 +1931,8 @@ header .logo a {
 }
 
 .popup-modal .link-box {
+	display: flex;
+	justify-content: space-evenly;
 	width: 100%;
 	overflow: hidden;
 	background: #000000;
